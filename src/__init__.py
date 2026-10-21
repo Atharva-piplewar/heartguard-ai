@@ -1,0 +1,3 @@
+"""
+HeartGuard AI Core Package
+"""
